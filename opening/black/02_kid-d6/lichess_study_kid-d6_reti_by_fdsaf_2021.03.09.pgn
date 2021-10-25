@@ -1,0 +1,15 @@
+[Event "kid (d6): Reti"]
+[Site "https://lichess.org/study/qV9QjsMr/ljucDP6R"]
+[Result "*"]
+[UTCDate "2021.03.09"]
+[UTCTime "14:07:45"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbq1rk1/ppp1ppbp/3p1np1/8/2P5/5NP1/PP1PPPBP/RNBQ1RK1 w Qq - 0 1"]
+[SetUp "1"]
+
+1. d3 (1. Nc3 e5 2. d4 (2. Nh4 Re8)  (2. b3 c6)  (2. e3 c6) 2... exd4) 1... e5 2. Nc3 (2. Qc2 c6 3. Nbd2 (3. b3 Re8)  (3. Bd2 Re8) 3... Nh5)  (2. b4 e4)  (2. Bg5 h6)  (2. Nbd2 Nc6 3. Ne1 (3. Rb1 Nb4)  (3. b3 Nd7) 3... a5) 2... Re8 3. e4 (3. b3 a5 4. Bb2 Na6)  (3. e3 a5)  (3. b4 a5)  (3. Rb1 a5)  (3. Be3 c6)  (3. Re1 c6)  (3. h3 c6)  (3. h4 c6)  (3. Qb3 c6)  (3. a3 Nc6) 3... a5 *
+
+

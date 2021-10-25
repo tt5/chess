@@ -1,0 +1,15 @@
+[Event "kid (d6): Torre"]
+[Site "https://lichess.org/study/qV9QjsMr/tnu7Y68W"]
+[Result "*"]
+[UTCDate "2021.03.09"]
+[UTCTime "15:03:51"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbq1rk1/ppp1ppbp/3p1np1/6B1/3P4/4PN2/PPPN1PPP/R2QKB1R w KQq - 0 1"]
+[SetUp "1"]
+
+1. h3 (1. Bh4 Nbd7)  (1. Be2 Nbd7 2. O-O e5)  (1. Bd3 Nbd7)  (1. Bc4 Nbd7 2. O-O h6)  (1. c3 h6) 1... Nbd7 2. Bc4 (2. c3 e5 3. Be2 Qe8 4. O-O (4. dxe5 Nxe5)  (4. Bh4 e4) 4... a5 5. Qc2 (5. Bh4 e4)  (5. dxe5 dxe5)  (5. Nh2 h6)  (5. Rc1 e4) 5... h6) 2... h6 *
+
+

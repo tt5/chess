@@ -1,0 +1,15 @@
+[Event "black rep: c4"]
+[Site "https://lichess.org/study/eTQCq1Uv/fTKtK4Dl"]
+[Result "*"]
+[UTCDate "2021.03.03"]
+[UTCTime "10:20:53"]
+[Variant "Standard"]
+[ECO "A15"]
+[Opening "English Opening: Anglo-Indian Defense, King's Indian Formation"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbqkb1r/pppppppp/5n2/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 1"]
+[SetUp "1"]
+
+1. Nf3 (1. Nc3 g6 2. Nf3 (2. d3 d5) 2... Bg7 3. e4 (3. a3 c5)  (3. h3 c5)  (3. b3 O-O) 3... d6)  (1. g3 g6 2. b3 (2. Nf3 Bg7 3. Bg2 O-O)  (2. Nc3 Bg7 3. Nf3 (3. Bg2 O-O 4. e4 (4. d3 c5 5. Rb1 Nc6) 4... c5) 3... O-O)  (2. Bg2 Bg7 3. e3 c6) 2... Bg7 3. Bb2 O-O) 1... g6 2. b3 Bg7 3. Bb2 (3. e3 c5) 3... O-O *
+
+

@@ -1,0 +1,15 @@
+[Event "black rep: sf3"]
+[Site "https://lichess.org/study/eTQCq1Uv/1ZUij0Ek"]
+[Result "*"]
+[UTCDate "2021.03.03"]
+[UTCTime "10:19:16"]
+[Variant "Standard"]
+[ECO "A05"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbqkb1r/pppppppp/5n2/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 1"]
+[SetUp "1"]
+
+1. g3 (1. b3 g6 2. d4 (2. Bb2 Bg7) 2... Bg7) 1... g6 2. Bg2 Bg7 3. O-O (3. d3 d5 4. O-O (4. c4 O-O) 4... c5)  (3. Nc3 d5 4. d4 O-O) 3... c5 *
+
+

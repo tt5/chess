@@ -1,0 +1,15 @@
+[Event "kid (d6): Nf3-h3-London"]
+[Site "https://lichess.org/study/qV9QjsMr/kdNV0XLo"]
+[Result "*"]
+[UTCDate "2021.03.09"]
+[UTCTime "14:40:01"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbq1rk1/ppp1ppbp/3p1np1/8/3P1B2/4PN1P/PPP2PP1/RN1QKB1R w KQq - 0 1"]
+[SetUp "1"]
+
+1. Bd3 (1. Bc4 c5 2. O-O (2. c3 Nc6) 2... Nc6) 1... Re8 *
+
+

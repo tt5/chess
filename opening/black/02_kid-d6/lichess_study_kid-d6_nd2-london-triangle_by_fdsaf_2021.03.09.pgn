@@ -1,0 +1,15 @@
+[Event "kid (d6): Nd2-London-Triangle"]
+[Site "https://lichess.org/study/qV9QjsMr/egYEkksZ"]
+[Result "*"]
+[UTCDate "2021.03.09"]
+[UTCTime "14:54:36"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbq1rk1/ppp1ppbp/3p1np1/8/3P1B2/2P1P3/PP1N1PPP/R2QKBNR w KQq - 0 1"]
+[SetUp "1"]
+
+1. Bc4 (1. h3 b6)  (1. Bg3 b6 2. Ngf3 Bb7 3. Bc4 Nh5) 1... Nbd7 2. Ngf3 Nh5 *
+
+

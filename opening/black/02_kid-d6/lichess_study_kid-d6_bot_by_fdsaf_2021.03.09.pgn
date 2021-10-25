@@ -1,0 +1,15 @@
+[Event "kid (d6): Bot"]
+[Site "https://lichess.org/study/qV9QjsMr/TcsP7xaC"]
+[Result "*"]
+[UTCDate "2021.03.09"]
+[UTCTime "13:29:22"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbqk2r/ppp1ppbp/3p1np1/8/2P1P3/2N2N2/PP1P1PPP/R1BQKB1R w KQkq - 0 1"]
+[SetUp "1"]
+
+1. d3 (1. a4 c5)  (1. Bd3 c5)  (1. Be2 e5)  (1. Rb1 e5)  (1. a3 e5) 1... c5 *
+
+

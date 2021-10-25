@@ -1,0 +1,15 @@
+[Event "kid (d6): h6 (2) Bf4"]
+[Site "https://lichess.org/study/qV9QjsMr/T2JUrH5Q"]
+[Result "*"]
+[UTCDate "2021.03.09"]
+[UTCTime "16:08:07"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbq1rk1/ppp1ppb1/3p1npp/8/3P1B2/2P2N2/PP1NPPPP/R2QKB1R w KQq - 0 1"]
+[SetUp "1"]
+
+1. h3 (1. e3 Nh5)  (1. e4 Nbd7) 1... Nbd7 *
+
+

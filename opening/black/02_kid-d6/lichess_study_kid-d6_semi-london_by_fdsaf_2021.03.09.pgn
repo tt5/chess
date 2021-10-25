@@ -1,0 +1,15 @@
+[Event "kid (d6): Semi-London"]
+[Site "https://lichess.org/study/qV9QjsMr/ZmnHuInA"]
+[Result "*"]
+[UTCDate "2021.03.09"]
+[UTCTime "14:59:48"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbq1rk1/ppp1ppbp/3p1np1/8/3P1B2/2P2N1P/PP2PPP1/RN1QKB1R w KQq - 0 1"]
+[SetUp "1"]
+
+1. Nbd2 Nbd7 2. e4 (2. Qc2 e5)  (2. Bh2 e5)  (2. Bg3 e5)  (2. a4 e5)  (2. e3 b6 3. Bc4 Bb7 4. O-O Qe8 5. a4 (5. Bg3 e5)  (5. Re1 e5)  (5. Qc2 e5)  (5. Qe2 e5) 5... e5) 2... e5 *
+
+

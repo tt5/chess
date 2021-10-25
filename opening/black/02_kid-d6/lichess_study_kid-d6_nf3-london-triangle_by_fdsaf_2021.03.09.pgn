@@ -1,0 +1,15 @@
+[Event "kid (d6): Nf3-London-Triangle"]
+[Site "https://lichess.org/study/qV9QjsMr/BfpYNvxz"]
+[Result "*"]
+[UTCDate "2021.03.09"]
+[UTCTime "14:53:38"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbq1rk1/ppp1ppbp/3p1np1/8/3P1B2/2P1PN2/PP3PPP/RN1QKB1R w KQq - 0 1"]
+[SetUp "1"]
+
+1. Nbd2 (1. h3 b6 2. Be2 (2. Bb5 Bb7 3. O-O Nbd7)  (2. Bc4 Nbd7 3. O-O Bb7)  (2. a4 Nbd7 3. Bc4 Bb7) 2... Bb7 3. O-O Nbd7 4. Nbd2 (4. Bh2 Re8)  (4. Nfd2 e5)  (4. Qc2 Qe8 5. Na3 (5. a4 e5)  (5. Rd1 e5) 5... e5)  (4. a4 a6) 4... Qe8 5. Qc2 (5. Qa4 e5)  (5. Bg3 e5)  (5. Ne1 e5)  (5. Bh2 e5)  (5. Nh2 e5)  (5. Nc4 a6) 5... e5) 1... Nh5 *
+
+

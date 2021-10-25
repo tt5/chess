@@ -1,0 +1,15 @@
+[Event "black rep: b4"]
+[Site "https://lichess.org/study/eTQCq1Uv/RL19Y36P"]
+[Result "*"]
+[UTCDate "2021.03.03"]
+[UTCTime "10:22:28"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbqkb1r/pppppppp/5n2/8/1P6/8/P1PPPPPP/RNBQKBNR w KQkq - 0 1"]
+[SetUp "1"]
+
+1. e3 (1. Nf3 e6 2. a3 b6)  (1. Bb2 e6) 1... e6 2. a3 b6 *
+
+
