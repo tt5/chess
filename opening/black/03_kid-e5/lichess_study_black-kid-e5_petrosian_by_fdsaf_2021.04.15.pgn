@@ -1,0 +1,15 @@
+[Event "black kid (e5): Petrosian"]
+[Site "https://lichess.org/study/2OduJgbM/10KqdXhm"]
+[Result "*"]
+[UTCDate "2021.04.15"]
+[UTCTime "14:32:34"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbq1rk1/1pp2pbp/3p1np1/p2Pp3/2P1P3/2N2N2/PP2BPPP/R1BQK2R w KQ - 0 1"]
+[SetUp "1"]
+
+1. Nd2 (1. O-O Na6 2. Re1 (2. Be3 Ng4 3. Bg5 f6)  (2. Ne1 Nc5 3. f3 Ne8 4. Nd3 f5 5. Be3 b6 6. exf5 gxf5)  (2. Qc2 Nh5 3. g3 f5 4. exf5 Bxf5)  (2. a3 Nc5 3. Qc2 a4) 2... Nd7 3. Be3 f5)  (1. Be3 Ng4 2. Bg5 (2. Bd2 f5 3. h3 Nxf2)  (2. Bc1 f5 3. exf5 gxf5 4. g3 Nh6) 2... f6 3. Bh4 Na6 4. h3 (4. O-O Qe8 5. Nd2 h5) 4... Nh6 5. Nd2 Bd7 6. f3 Qe8 7. b3 f5)  (1. Bg5 h6 2. Be3 (2. Bh4 Na6 3. Nd2 (3. O-O Qe8 4. Ne1 g5 5. Bg3 Nxe4 6. Nxe4 f5 7. Bh5 Qe7 8. f3 fxe4 9. fxe4 Rxf1+ 10. Kxf1 Nc5 11. Qe2 g4 12. Bxg4 Bxg4 13. Qxg4 Qg5 14. Qxg5 hxg5 15. Nf3 Rf8 16. Ke2 Nxe4 17. Rf1 c6) 3... Qe8 4. a3 (4. O-O Nh7 5. a3 Bd7 6. f3 h5 7. Nb5 (7. Bd3 Bh6 8. Qe2 Nc5 9. Bc2 a4 10. Bf2 b6 11. Kh1 Qd8 12. h4 (12. h3 h4) 12... f5)  (7. Bf2 Bh6 8. Qc2 (8. Re1 Qe7 9. h4 g5 10. hxg5 Qxg5) 8... Qe7 9. Rad1 h4)  (7. Qc2 Bh6 8. Rad1 f5)  (7. Qe1 Bh6 8. Nb5 (8. Rd1 a4 9. Bd3 Nc5 10. Bc2 f5) 8... f5)  (7. Kh1 Bh6 8. Qc2 (8. Nb5 Bg5)  (8. Rb1 a4 9. b3 (9. Nb5 b6 10. b4 axb3 11. Nxb3 Bg5 12. Bxg5 Nxg5 13. Qd2 f6)  (9. Bd3 Nc5) 9... axb3)  (8. b3 Be3 9. Qc2 (9. Rb1 Bc5 10. Qc1 f5 11. exf5 gxf5)  (9. Ra2 f5 10. exf5 gxf5 11. Qb1 Qg6 12. b4 Kh8 13. Nd1 Bh6) 9... f5) 8... f5) 7... Bh6 8. Qc2 (8. Rb1 a4 9. Bf2 b6 10. b4 axb3 11. Nxb3 f5 12. exf5 gxf5 13. a4 Qg6 14. a5 bxa5 15. Nxa5 Kh8 16. Kh1 Rg8 17. Rg1 h4 18. Nc6 Bxc6 19. dxc6 Nf6) 8... f5 9. exf5 gxf5) 4... Bd7 5. b3 Nh7 6. Qc2 (6. Rb1 h5 7. f3 Bh6 8. b4 (8. Bf2 Qe7 9. h4 (9. b4 axb4 10. axb4 h4) 9... Nc5 10. Qc2 f5) 8... axb4 9. axb4 Be3 10. Bf2 Bxf2+ 11. Kxf2 Qe7 12. Re1 Rfb8 13. Kg1 c5 14. bxc5 Nxc5) 6... h5 7. f3 Bh6 8. Bf2 Qe7 9. O-O-O h4 10. Kb2 Nc5 11. Rhe1 h3 12. gxh3 Bf4 13. h4 Nf6 14. Nf1 Nh5) 2... Ng4 3. Bd2 (3. Bc1 f5) 3... f5) 1... Na6 2. h4 Nc5 3. h5 c6 4. g4 a4 5. g5 Nxh5 6. Bxh5 Nd3+ 7. Kf1 Qb6 8. Qf3 (8. Rh2 a3 9. bxa3 Qd4 10. Ne2 Qxa1 11. Nb3 Qxa2 12. Nc3 Nxc1 13. Nxa2 Nxa2 14. Bg4 cxd5) 8... Nxc1 9. Rxc1 f6 10. Qe2 fxg5 11. Bf3 g4 12. Bg2 Qxb2 *
+
+
