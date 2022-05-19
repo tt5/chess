@@ -1,0 +1,15 @@
+[Event "white rev rosso: Chapter 1"]
+[Site "https://lichess.org/study/Cjn9AHgI/5gZw1Shz"]
+[Result "*"]
+[UTCDate "2021.04.25"]
+[UTCTime "18:40:28"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "r1bqk2r/pppp1ppp/2n2n2/3Np3/1bP5/6P1/PP1PPPBP/R1BQK1NR b KQkq - 0 1"]
+[SetUp "1"]
+
+1... Nxd5 (1... Bc5 2. e3 O-O 3. Ne2 Nxd5 4. cxd5 Ne7 5. O-O c6 6. d4) 2. cxd5 Ne7 3. Nf3 e4 4. Nd4 Nxd5 5. Qb3 *
+
+

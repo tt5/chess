@@ -1,0 +1,15 @@
+[Event "white bot: Chapter 1"]
+[Site "https://lichess.org/study/YeNHThTQ/ElPp27Sp"]
+[Result "*"]
+[UTCDate "2021.07.22"]
+[UTCTime "11:59:42"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbqk1nr/1pp2pbp/3p2p1/p3p3/2P1P3/2NP2P1/PP3PBP/R1BQK1NR b KQkq - 0 1"]
+[SetUp "1"]
+
+1... Nc6 2. Nge2 Nge7 3. O-O O-O 4. Bg5 h6 5. Be3 Nd4 6. Qd2 Kh7 7. Bxd4 exd4 8. Nb5 *
+
+

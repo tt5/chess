@@ -1,0 +1,15 @@
+[Event "white c-Gambit: open Cat"]
+[Site "https://lichess.org/study/RWNmnrr5/koiDM99S"]
+[Result "*"]
+[UTCDate "2021.04.12"]
+[UTCTime "17:46:48"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbq1rk1/ppp1bppp/4pn2/8/2pP4/5NP1/PPQ1PPBP/RNB2RK1 b - - 0 1"]
+[SetUp "1"]
+
+1... c6 (1... b6 2. Bg5 Nd5 3. Bxe7 Qxe7 4. Ne5)  (1... a6 2. a4 Bd7 (2... c5 3. dxc5 Bxc5 4. Nbd2 Bd7 (4... b5 5. Ng5 Ra7 6. Nde4 Nxe4 7. Qxe4 f5 8. Qc2 h6 9. Nf3 Bb7 10. b3 Be4 11. Qc3) 5. Nxc4) 3. Qxc4 Bc6 4. Bf4 Bd6 5. Bg5 Nbd7 6. Nc3 h6 7. Bc1 Re8 (7... a5 8. b3)  (7... Rb8 8. a5)  (7... Nd5 8. Nd2)  (7... Nb6 8. Qd3)  (7... Rc8 8. Re1) 8. Rd1 Qe7 9. a5)  (1... b5 2. a4 b4 3. Nfd2 c6 4. Nxc4 Qxd4 5. Rd1 Qc5 6. Be3 Qh5 7. Nbd2 Ng4 8. Nf3 Nxe3 9. Nxe3 a5 10. Rac1) 2. Qxc4 b5 3. Qd3 *
+
+

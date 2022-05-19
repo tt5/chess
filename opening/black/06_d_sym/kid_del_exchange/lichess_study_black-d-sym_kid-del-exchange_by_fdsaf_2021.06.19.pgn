@@ -1,0 +1,15 @@
+[Event "black d sym: kid del exchange"]
+[Site "https://lichess.org/study/HWxIrM2A/LvRqIpHC"]
+[Result "*"]
+[UTCDate "2021.06.19"]
+[UTCTime "18:23:56"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "r1bq1rk1/ppp2pbp/2n2np1/4p3/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 2 4"]
+[SetUp "1"]
+
+4. Qxd8 (4. Bg5 Qxd1 5. Rfxd1 h6)  (4. Be3 Bg4 5. h3 Bxf3 6. Bxf3 Nd4 7. Nb5 Ne6 8. Qxd8 (8. Qb3 Qe7 9. Rfd1 c6 10. Nc3 Rfd8 11. Ne2 b6 12. Qa4 Qc7 13. a3 Bf8 14. b4 Kg7) 8... Rfxd8) 4... Rxd8 5. Bg5 Rf8 6. Nd5 (6. Rfd1 Bg4) 6... Nxe4 *
+
+

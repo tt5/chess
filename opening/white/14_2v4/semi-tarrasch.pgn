@@ -1,0 +1,15 @@
+[Event "white 2v4: semi-tarrasch"]
+[Site "https://lichess.org/study/FgkAAsUx/qg7f3jRb"]
+[Result "*"]
+[UTCDate "2021.07.04"]
+[UTCTime "08:55:00"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "r1bqkb1r/pp3ppp/2n5/2pp4/3P4/5NP1/PP2PPBP/R1BQK2R b KQkq - 0 1"]
+[SetUp "1"]
+
+1... cxd4 (1... Be7 2. O-O O-O 3. dxc5 Bxc5 4. Bg5 Qd7 5. Rc1)  (1... c4 2. O-O Bb4 (2... Be7 3. b3 O-O (3... cxb3 4. Qxb3) 4. bxc4)  (2... Bf5 3. Nd2 Nxd4 (3... Qd7 4. e4 Be6 5. b3 cxb3 6. Nxb3) 4. Nb3 Nxb3 (4... Nc6 5. Nd4) 5. axb3) 3. b3) 2. Nxd4 *
+
+

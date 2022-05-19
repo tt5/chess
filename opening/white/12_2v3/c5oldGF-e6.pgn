@@ -1,0 +1,15 @@
+[Event "white 2v3: c5oldGF e6"]
+[Site "https://lichess.org/study/GyAfkzPV/xIhgIN4D"]
+[Result "*"]
+[UTCDate "2021.04.16"]
+[UTCTime "14:58:10"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbqkb1r/pp3ppp/4p3/2pn4/8/5NP1/PP1PPPBP/RNBQ1RK1 b kq - 0 1"]
+[SetUp "1"]
+
+1... Be7 (1... Nc6 2. d4) 2. d4 cxd4 (2... Nc6 3. dxc5 O-O (3... Bxc5) 4. e4 Nf6) 3. Nxd4 O-O (3... Nc6 4. Nxc6) 4. Qb3 Nc6 (4... Na6 5. Rd1 Nc5 6. Qc4 b6 7. b4 Ba6 8. b5 Bb7 9. e4 Nf6 10. Nc3) 5. Nxc6 bxc6 6. e4 Nf6 *
+
+

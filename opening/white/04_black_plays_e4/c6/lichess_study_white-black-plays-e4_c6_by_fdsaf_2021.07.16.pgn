@@ -1,0 +1,15 @@
+[Event "white black plays e4: c6"]
+[Site "https://lichess.org/study/o0uoDr1d/azTH8eO9"]
+[Result "*"]
+[UTCDate "2021.07.16"]
+[UTCTime "20:06:49"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbqkbnr/pp1p1ppp/2p5/8/2PNp3/6P1/PP1PPP1P/RNBQKB1R b KQkq - 0 1"]
+[SetUp "1"]
+
+1... d5 2. cxd5 Qxd5 3. Nc2 Nf6 4. Nc3 Qe5 5. Bg2 Na6 6. O-O Be7 7. Ne3 h5 8. d4 exd3 9. exd3 Qd4 10. Nc2 Qd8 11. Bg5 Bg4 12. Qd2 O-O 13. d4 *
+
+

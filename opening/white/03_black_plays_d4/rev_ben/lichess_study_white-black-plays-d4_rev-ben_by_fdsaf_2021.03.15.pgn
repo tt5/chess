@@ -1,0 +1,15 @@
+[Event "white black plays d4: rev ben"]
+[Site "https://lichess.org/study/JkqRUjfa/tLbXmyby"]
+[Result "*"]
+[UTCDate "2021.03.15"]
+[UTCTime "12:30:05"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbqkbnr/ppp2ppp/4p3/8/2Pp4/5NP1/PP1PPPBP/RNBQK2R b KQkq - 0 1"]
+[SetUp "1"]
+
+1... c5 (1... Nf6 2. O-O) 2. O-O Nf6 (2... Nc6 3. d3)  (2... Ne7 3. b4) 3. e3 Nc6 4. exd4 cxd4 5. d3 Bd6 6. Na3 e5 (6... O-O 7. Nc2) 7. c5 Bxc5 8. Nc4 Nd7 (8... Bg4 9. Qa4) 9. Re1 O-O (9... f6 10. Nh4 g6 11. a3) 10. Nfxe5 Ndxe5 11. Nxe5 Nxe5 12. Rxe5 Qb6 13. a4 a5 *
+
+

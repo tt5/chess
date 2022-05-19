@@ -1,0 +1,15 @@
+[Event "white 2v3: GF"]
+[Site "https://lichess.org/study/GyAfkzPV/nNfV0x6o"]
+[Result "*"]
+[UTCDate "2021.04.03"]
+[UTCTime "20:05:26"]
+[Variant "Standard"]
+[ECO "D74"]
+[Opening "Neo-Grünfeld Defense: Delayed Exchange Variation"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbqkb1r/ppp1pp1p/6p1/3n4/3P4/5NP1/PP2PP1P/RNBQKB1R b KQkq - 0 1"]
+[SetUp "1"]
+
+1... Bg7 2. Bg2 O-O (2... Nb6 3. Nc3 Nc6 (3... c5 4. dxc5) 4. e3 O-O 5. O-O e5 (5... Bg4 6. h3)  (5... Be6 6. b3 Qc8 (6... h6 7. Bb2 a5 8. Ne4 Nb4 9. Nc5 Bc8 10. Qe2 c6 11. Rfd1)  (6... a5 7. Ba3 Re8 (7... Nb4 8. Rc1 h6 9. Qe2 c6 10. Rfd1) 8. Rc1 a4 9. Ng5 Bf5 10. Nxa4 Nxa4 11. bxa4 e5 12. Nxf7 Kxf7 13. Qb3+ Kf6 14. Qxb7 Na5 15. dxe5+ Ke6 16. Qf3 Qd3 17. Rfd1) 7. Bb2 Bh3 8. Rc1 Bxg2 9. Kxg2 Rd8 10. Qe2 e5 11. dxe5 Nxe5 12. Ne4 Nxf3 (12... Qf5 13. Bxe5 Bxe5 14. Nc5 Rab8 15. e4)  (12... Nd3 13. Bxg7 Kxg7 14. Rfd1 Nxc1 15. Qb2+ Kf8 16. Qh8+ Ke7 17. Qf6+ Ke8 18. Rxc1) 13. Bxg7 Kxg7 14. Qxf3 Nd5 15. Rfd1 c6 16. Nc5)  (5... Re8 6. Nh4)  (5... a5 6. Qe2) 6. d5 e4 (6... Ne7 7. e4) 7. dxc6 Qxd1 8. Rxd1 exf3 9. Bxf3 bxc6 10. Bd2 Nc4 11. Na4 Rb8)  (2... Nc6 3. e3) 3. O-O Nc6 (3... Na6 4. Nc3)  (3... c6 4. e4)  (3... c5 4. e4) 4. e3 Re8 (4... Bg4 5. h3 Bd7 6. Kh2 e6 7. e4 Nb6 8. Nc3) 5. Nc3 *
+
+

@@ -1,0 +1,15 @@
+[Event "Hedgehog (f3): 0-0 Qd2"]
+[Site "https://lichess.org/study/sS2ZerlE/TKshY7jS"]
+[Result "*"]
+[UTCDate "2021.07.03"]
+[UTCTime "17:02:08"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rn3rk1/1bq1bppp/pp1ppn2/8/2PNP3/2N1BP2/PP1QB1PP/R4RK1 w - - 0 6"]
+[SetUp "1"]
+
+6. b4 (6. Rfd1 Nbd7)  (6. Rad1 Nbd7) 6... Nbd7 *
+
+

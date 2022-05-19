@@ -1,0 +1,15 @@
+[Event "Sicilian (e6): 5. Nc3 Qc7 (Sidelines)"]
+[Site "https://lichess.org/study/OfIrjaJB/LcKJghTc"]
+[Result "*"]
+[UTCDate "2021.03.09"]
+[UTCTime "15:26:41"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnb1kbnr/1pqp1ppp/p3p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 1"]
+[SetUp "1"]
+
+1. Bg5 (1. a3 b5 2. Be2 (2. Be3 Nf6 3. Bd3 (3. g3 Nc6 4. Bg2 Ne5)  (3. f4 Bb7 4. Bd3 Bc5)  (3. f3 Bb7 4. Qd2 (4. Be2 d5)  (4. Bd3 d5)  (4. Rc1 Bc5) 4... d5)  (3. Qf3 Bb7) 3... Bc5 4. O-O O-O 5. Qe2 Bb7 6. Nb3 Bxe3)  (2. Bd3 Nf6 3. Bg5 (3. Qe2 Bb7 4. f4 Be7 5. Bd2 Nc6)  (3. f4 Bb7) 3... Be7 4. Qe2 h6 5. Bh4 Qa7 6. Nb3 d6 7. f4 Nc6 8. O-O-O b4) 2... Nf6 3. f4 (3. O-O Bb7 4. Qd3 d6) 3... Bb7 4. Bf3 (4. e5 Nd5) 4... Nc6)  (1. f4 b5 2. Bd3 (2. Be3 Bb7 3. Bd3 Nf6 4. a3 (4. Qf3 Nc6)  (4. O-O Bc5) 4... Bc5) 2... Bb7 3. Qe2 Nf6)  (1. Qd3 b5 2. a3 (2. Bg5 b4)  (2. f4 b4)  (2. Qg3 d6) 2... Bb7 3. Bg5 (3. Qg3 d6)  (3. f4 Nc6)  (3. g4 Nc6) 3... Nf6)  (1. h3 b5 2. Bd3 Bb7 3. O-O Nf6)  (1. f3 b5)  (1. g3 Bb4 2. Be2 (2. Ne2 Be7)  (2. Bd2 Nf6 3. Bg2 Nc6 4. a3 (4. Nb3 Be7 5. O-O d6 6. f4 b5 7. a3 (7. Be3 O-O) 7... Bb7 8. Qe2 O-O 9. g4 b4 10. axb4 Nxb4)  (4. Nxc6 bxc6) 4... Be7 5. Nb3 (5. Nxc6 bxc6) 5... O-O 6. Qe2 d6 7. f4 b5 8. Be3 Nd7 9. O-O Bb7 10. Rfd1 Rac8 11. Qf2 Na5 12. Nxa5 Qxa5)  (2. Qd2 Nf6 3. Bg2 O-O 4. O-O (4. a3 Bxc3) 4... Nc6 5. Nxc6 bxc6) 2... Nf6)  (1. Be2 Nf6)  (1. Bd3 Nf6)  (1. Be3 Nf6)  (1. Qf3 Nf6) 1... b5 2. Qd2 (2. a3 Bb7 3. Bd3 Nc6) 2... Nf6 3. Bxf6 (3. O-O-O Be7) 3... gxf6 4. O-O-O Nc6 5. h4 (5. Nxc6 Qxc6)  (5. g3 b4)  (5. Kb1 Nxd4)  (5. a3 Nxd4)  (5. f3 Nxd4)  (5. Nb3 Ne5 6. a3 (6. f4 Ng6 7. g3 b4 8. Ne2 Bb7 9. Bg2 f5 10. Qd4 Rc8 11. Rd2 a5 12. Rhd1 a4 13. Na5 Ba6 14. exf5 (14. Kb1 fxe4 15. Bxe4 Bc5 16. Qf6 (16. Qg7 Bf8 17. Qd4 Bc5 18. Qg7 Rf8 19. f5 (19. Nd4 Qxa5 20. f5 Ne7 21. fxe6 dxe6 22. Nxe6 fxe6 23. Qxh7 Rf7 24. Qh8+ Rf8)  (19. Rxd7 Qxa5 20. Nd4 Qb6 21. Nc6 Rxc6 22. Rd8+ Qxd8 23. Rxd8+ Kxd8 24. Bxc6 Ke7 25. Qh6 a3 26. Qh5 Kd6 27. Ba4 Bb7 28. bxa3 bxa3 29. Qd1+ Kc7 30. Qd7+ Kb8 31. Bc6 Bxc6 32. Qxc6 Rc8 33. Qb5+ Ka8 34. Qa6+ Kb8) 19... Qe5 20. Qxe5 Nxe5 21. Bb7 Bxb7 22. Nxb7 Ke7) 16... Be7 17. Qg7 (17. Qd4 O-O) 17... Bxe2 18. Bxg6 Rf8) 14... Bc5 15. Qg7 Bf8 16. Qf6 Be7) 6... b4) 5... Qd6 *
+
+

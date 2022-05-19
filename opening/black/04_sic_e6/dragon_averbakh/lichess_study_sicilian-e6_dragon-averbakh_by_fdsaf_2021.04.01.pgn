@@ -1,0 +1,15 @@
+[Event "Sicilian (e6): dragon (averbakh)"]
+[Site "https://lichess.org/study/OfIrjaJB/Vaa5Uckc"]
+[Result "*"]
+[UTCDate "2021.04.01"]
+[UTCTime "15:40:42"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnb2rk1/pp2ppbp/3p1np1/2q5/2P1P3/2N5/PP1BBPPP/R2QK1NR w KQq - 0 1"]
+[SetUp "1"]
+
+1. Nf3 Bg4 2. O-O Nc6 3. Be3 Qa5 4. Rc1 (4. Nd2 Bxe2 5. Qxe2 Nd7 6. Rac1 (6. Nb3 Qa6 7. Rac1 Rac8)  (6. Rfc1 Rfc8 7. a3 Qd8) 6... Bxc3 7. Rxc3 Qxa2 8. Nb3 Qa4 9. f4 a5)  (4. a3 Rfc8 5. b4 Qd8 6. Qb3 (6. Rc1 Bxf3 7. gxf3 e5 8. f4 Qe7 9. fxe5 Nxe5 10. c5 dxc5 11. Bxc5 Qe6) 6... Qf8) 4... Nd7 5. a3 Nc5 *
+
+

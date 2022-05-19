@@ -1,0 +1,15 @@
+[Event "white 3v4: Qa5 (Re1)"]
+[Site "https://lichess.org/study/AeU4CYif/BxB6Y58K"]
+[Result "*"]
+[UTCDate "2021.04.23"]
+[UTCTime "09:01:48"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "r1b2rk1/pp1n1pbp/2pp1np1/q7/2PNP3/2N3PP/PP3PB1/R1BQR1K1 b - - 0 2"]
+[SetUp "1"]
+
+2... Ne5 3. Bf1 Be6 (3... Re8 4. Be3 c5 (4... Be6 5. Nxe6 Rxe6 6. Kg2 Rae8 (6... a6 7. c5 dxc5 (7... Rd8 8. cxd6 Rexd6 9. Qa4) 8. f4 Rd8 9. Qc2 Ned7 10. Rad1 b5 11. Bf2) 7. Rb1 a6 (7... Ned7 8. f3 a6 9. a3 b5 10. Qc2) 8. b4 Qc7 9. Rc1 Qb8 10. c5 Rd8 11. Qb3 d5 12. exd5 cxd5 13. Bf4) 5. Nb3 Qb4 6. Bd2 Qb6 7. f4 Nc6 8. Bg2 Nd4 (8... Be6 9. Nd5 Bxd5 10. cxd5 Nd4 (10... Nb4 11. Bc3 Nfxd5 (11... c4+ 12. Bd4 Qb5 13. Nc1 Nd7 (13... Nd3 14. Nxd3 cxd3 15. Qb3 Qxb3 16. axb3 d2 17. Re2 Nxe4 18. Bxg7 Nf6 19. Rxd2 Kxg7) 14. Bxg7 Kxg7 15. a3 Nd3 16. Nxd3 cxd3 17. Qd2) 12. exd5 c4+ 13. Kh2 cxb3) 11. Nxd4 cxd4 12. Qb3 Qxb3 13. axb3) 9. Be3 Nxb3 10. Qxb3 Qxb3 11. axb3 Bd7 12. Rad1 Bc6 13. Bf2 Rad8 14. Rd2) 4. Nxe6 *
+
+

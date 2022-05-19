@@ -1,0 +1,15 @@
+[Event "white 2v4: qid"]
+[Site "https://lichess.org/study/FgkAAsUx/tVN7K7bH"]
+[Result "*"]
+[UTCDate "2021.04.25"]
+[UTCTime "17:24:00"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rn1q1rk1/pbp1bppp/1p3n2/3p4/3P4/2N2NP1/PPQ1PPBP/R1B2RK1 b - - 0 1"]
+[SetUp "1"]
+
+1... Nbd7 (1... c5 2. Bf4)  (1... Ne4 2. Nxe4)  (1... Re8 2. Bf4)  (1... Na6 2. Bf4) 2. Bf4 c6 (2... Nh5 3. e3 c6 (3... Nxf4 4. exf4)  (3... g5 4. g4 Nxf4 5. exf4) 4. h4 Nxf4 (4... Re8 5. Rfe1 h6 (5... Nxf4 6. exf4)  (5... a5 6. Rac1)  (5... Bf8 6. Bg5 Qb8 7. g4) 6. Rac1 Bf8 (6... Nxf4 7. exf4)  (6... a5 7. Bh3) 7. a3 Qe7 (7... a5 8. Ne5)  (7... Nxf4 8. exf4)  (7... Ndf6 8. Be5)  (7... c5 8. Red1 cxd4 9. Rxd4 Nxf4 10. exf4) 8. Ne5 Rad8 (8... Rac8 9. Bh3 Nxe5 10. Bxe5 Rcd8 11. Nb5 cxb5 12. Qe2)  (8... Kh8 9. Qd1)  (8... g5 9. hxg5)  (8... g6 9. b4)  (8... f6 9. Nxc6)  (8... Red8 9. Bf3)  (8... Nhf6 9. e4)  (8... Ndf6 9. Bf3)  (8... Nxf4 9. exf4)  (8... c5 9. Nxd7)  (8... a6 9. Nxd7)  (8... Nxe5 9. Bxe5 f6 10. Bf3 Qf7 11. Bc7 Rac8 12. Qd1 Rxc7 13. Bxh5 g6 14. Bf3)  (8... a5 9. Nxd7)  (8... Qd8 9. Bf3)  (8... Qe6 9. Nd3) 9. Nd3) 5. exf4) 3. Rfe1 Re8 (3... h6 4. Rad1) 4. Rad1 *
+
+

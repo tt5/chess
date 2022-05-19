@@ -1,0 +1,15 @@
+[Event "Tromp: Chapter 2"]
+[Site "https://lichess.org/study/ogREeY8j/t1IfMQdz"]
+[Result "*"]
+[UTCDate "2021.04.12"]
+[UTCTime "16:38:39"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbqkb1r/ppp2ppp/5p2/3p4/3P4/8/PPP1PPPP/RN1QKBNR w KQkq - 0 1"]
+[SetUp "1"]
+
+1. Nd2 (1. e3 Be6 2. Nd2 (2. Bd3 c5)  (2. Nf3 Bb4+)  (2. g3 c6) 2... c6)  (1. g3 c6) 1... Bd6 2. e3 O-O 3. c4 c5 *
+
+

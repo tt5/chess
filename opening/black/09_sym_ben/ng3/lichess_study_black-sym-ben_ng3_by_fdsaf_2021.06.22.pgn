@@ -1,0 +1,15 @@
+[Event "black sym ben: ng3"]
+[Site "https://lichess.org/study/igUYQ4Ui/b6u3UKdZ"]
+[Result "*"]
+[UTCDate "2021.06.22"]
+[UTCTime "15:23:12"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbq1rk1/1p3pbp/p2p1np1/2pP4/2P5/2N2PN1/PP4PP/R1BQKB1R w KQ - 0 5"]
+[SetUp "1"]
+
+5. a4 (5. Be2 b5 6. cxb5 axb5 7. Nxb5 (7. Bxb5 Ba6 8. O-O Qb6 9. a4 Bxb5 10. Nxb5 Na6 11. Bf4 (11. Ne4 c4+ 12. Kh1 Nxe4 13. fxe4 Nc5 14. Be3 Bxb2 15. Rb1 Be5)  (11. Ne2 c4+ 12. Kh1 Nb4 13. Nec3 Nd3 14. Bg5 Nf2+ 15. Rxf2 Qxf2) 11... Nb4 12. Bxd6 Rfc8 13. Be5 Nfxd5 14. Bxg7 Kxg7) 7... Na6 8. O-O Nc7 9. Bg5 (9. Nc3 Bb7 10. Bc4 Nfxd5) 9... h6 10. Bxf6 Bxf6) 5... h5 6. Bg5 Qb6 7. Qd2 Nh7 8. a5 Qc7 9. Bh6 Re8+ 10. Be2 Bd4 11. Nge4 Nd7 12. Nf2 Ne5 13. O-O f5 *
+
+

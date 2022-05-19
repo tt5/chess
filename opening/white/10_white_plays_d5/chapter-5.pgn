@@ -1,0 +1,15 @@
+[Event "white white plays d5: Chapter 5"]
+[Site "https://lichess.org/study/i4SIDMeX/NJzZv7bz"]
+[Result "*"]
+[UTCDate "2021.07.04"]
+[UTCTime "12:22:02"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbq1rk1/pp2ppbp/3p1np1/2pP4/2P5/2N2NP1/PP2PPBP/R1BQK2R b KQ - 0 1"]
+[SetUp "1"]
+
+1... Nbd7 (1... e6 2. O-O exd5 3. cxd5)  (1... Na6 2. O-O)  (1... e5 2. O-O Na6 (2... Ng4 3. e4 Nh6 (3... f5 4. Ng5 Kh8 5. exf5 gxf5 6. Bh3 Nh6 (6... Na6 7. Bxg4 fxg4 8. f3) 7. Qh5) 4. Ne1)  (2... Nh5 3. e4 h6 (3... f5 4. exf5 Bxf5 (4... gxf5 5. Nxe5 Nxg3 6. fxg3 dxe5 (6... Bxe5 7. Qh5) 7. Be3 Na6 8. d6) 5. Ng5 Nf6 6. Ne6 Bxe6 7. dxe6 Nc6 8. Bg5 h6 9. Bxf6 Bxf6 10. Nd5)  (3... a6 4. a4 Qe8 5. a5 f5 6. exf5 gxf5 (6... Bxf5 7. Ng5 Nf6 8. Ne6 Rf7 (8... Bxe6 9. dxe6 Qxe6 10. Bxb7 Ra7 11. Bg2 Nbd7 12. b3) 9. Nxg7 Kxg7 10. h3) 7. Ng5 Nf6 8. Na4) 4. Ne1)  (2... Ne8 3. e4)  (2... Nbd7 3. e4 Ne8 (3... a6 4. a4) 4. a3) 3. e4 Nc7 4. Ne1)  (1... a6 2. a4) 2. O-O Nb6 (2... a6 3. a4 Ne8 (3... Rb8 4. e4 b5 (4... Ne8 5. Re1 Nc7 6. a5 b5 7. axb6 Nxb6 (7... Rxb6 8. Qc2 Rb4 9. b3 e6 10. Bg5 f6 11. Bd2 exd5 12. Nxd5 Nxd5 13. exd5) 8. Qd3 e5 9. dxe6 Bxe6 10. b3) 5. axb5 axb5 6. Nxb5 Nxe4 7. Na7) 4. a5 b6 5. axb6 Nxb6 6. Bd2 Nf6 7. b3) 3. Nd2 e6 4. h3 exd5 5. cxd5 Nfd7 6. f4 f5 7. a4 Nf6 8. a5 Nbd7 9. Nc4 Ne8 10. e4 fxe4 11. Nxe4 Ndf6 12. Ng5 *
+
+

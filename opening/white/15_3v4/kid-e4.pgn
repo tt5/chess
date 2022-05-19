@@ -1,0 +1,15 @@
+[Event "white 3v4: kid e4"]
+[Site "https://lichess.org/study/AeU4CYif/71oFhUDw"]
+[Result "*"]
+[UTCDate "2021.04.16"]
+[UTCTime "14:12:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "r1bq1rk1/pppn1pbp/3p1np1/8/2PNP3/2N3P1/PP3PBP/R1BQ1RK1 b - - 0 1"]
+[SetUp "1"]
+
+1... Ne5 (1... Re8 2. h3 Nc5 (2... a6 3. Re1 Rb8 4. Rb1 Ne5 (4... c5 5. Nc2 b5 6. Qxd6 Rb6 7. Qd1 bxc4 8. e5 Nh5 9. Nd5) 5. b3 c5 6. Nc2 Qc7 (6... Be6 7. f4 Nc6 8. Bb2 h5 9. Nd5 Nh7 10. Bxg7 Kxg7 11. Qd2 b5 12. cxb5 axb5 13. Nde3) 7. a4) 3. Re1 Bd7 (3... a5 4. Ndb5 a4 (4... Bd7 5. Bf4 h6 (5... Bxb5 6. cxb5 Nfd7 7. Qc2 Nb6 (7... h5 8. Be3) 8. Rad1)  (5... Bc6 6. Qc2 Nfd7 7. Rad1 Ne5 8. Be3) 6. Qc2 Ne6 7. Be3 Ng5 8. g4 Bc6 9. f3)  (4... Be6 5. e5 dxe5 6. Qxd8 Raxd8 (6... Rexd8 7. Nxc7) 7. Nxc7)  (4... Nfd7 5. Be3 Ne5 6. Bf1 Be6 7. b3 a4 8. Rc1 axb3 9. axb3 Bd7 10. f4 Bxb5 11. Bxc5 Bc6 12. Bf2 Nd7 13. Bg2 Nc5 14. e5 Bxg2 15. Kxg2 Na6 16. exd6 Rxe1 17. Bxe1 cxd6 18. Bf2 Nc5 19. b4 Bxc3 20. bxc5 Bb4 21. cxd6 Qxd6 22. Qxd6) 5. Bg5 h6 6. Bxf6 Bxf6 7. Nd5 Ne6 8. Nxf6+ Qxf6 9. Qd2)  (3... c6 4. Bf4)  (3... h6 4. f3)  (3... Nfd7 4. Be3) 4. Bf4 Qc8 (4... a6 5. Qd2 Rb8 6. Rad1 Qc8 7. Kh2 b5 8. b4 Ne6 9. Nxe6 Bxe6 10. c5 dxc5 11. bxc5 b4 12. Nd5 Bxd5 13. exd5)  (4... h6 5. Kh2) 5. Kh2 a6 (5... h6 6. f3 a5 7. Qd2 Kh7 8. Rad1 a4 9. Ndb5 Bc6 10. Be3) 6. Rc1 h5 7. b4 Ne6 8. Nxe6 Bxe6 9. c5 dxc5 10. bxc5)  (1... c6 2. h3 Qa5 (2... Nc5 3. Bf4) 3. Nde2) 2. b3 *
+
+

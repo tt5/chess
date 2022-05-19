@@ -1,0 +1,15 @@
+[Event "black hedgehog f4: c4 00 Nb3 (Qc7)"]
+[Site "https://lichess.org/study/l8cu5ayk/Z2QeLyAD"]
+[Result "*"]
+[UTCDate "2021.07.03"]
+[UTCTime "17:23:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnb1k2r/2q1bppp/pp1ppn2/8/2P1PP2/1NNB4/PP4PP/R1BQ1RK1 w kq - 0 7"]
+[SetUp "1"]
+
+7. Be3 (7. Nd4 Nbd7 8. Bd2 Bb7 9. b4 O-O) 7... Nbd7 8. Nd2 Bb7 9. a3 (9. Rc1 O-O 10. Qf3 Rfe8) 9... O-O 10. Rc1 (10. Qf3 d5 11. Qe2 Rfc8) 10... Rfc8 11. Qf3 Qd8 12. Rcd1 (12. f5 Ne5) 12... b5 *
+
+

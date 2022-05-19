@@ -1,0 +1,15 @@
+[Event "black d sym: London"]
+[Site "https://lichess.org/study/HWxIrM2A/6i52MENf"]
+[Result "*"]
+[UTCDate "2021.04.15"]
+[UTCTime "15:15:38"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "r3qrk1/pbpn1pbp/1p3np1/4p3/5B2/2P1PN1P/PPQNBPP1/R4RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bg3 Qe7 2. a4 a5 3. Bh4 h6 4. Rfd1 Rfd8 5. b3 Nc5 6. b4 axb4 7. cxb4 Ne6 8. a5 Qxb4 9. a6 Bd5 10. Bxf6 Bxf6 11. e4 Qc5 12. Qxc5 Nxc5 13. exd5 e4 14. Ra3 (14. Ne1 Bxa1 15. Rxa1 Rxd5) 14... exf3 *
+
+

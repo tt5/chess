@@ -1,0 +1,15 @@
+[Event "white white plays e5: c6GF"]
+[Site "https://lichess.org/study/6wFeZQmL/JT4IkKqq"]
+[Result "*"]
+[UTCDate "2021.07.04"]
+[UTCTime "11:51:05"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbqk2r/pp2ppbp/2p2np1/3pP3/2PP4/6P1/PP3PBP/RNBQK1NR b KQkq - 0 1"]
+[SetUp "1"]
+
+1... Ng8 (1... Nfd7 2. cxd5 cxd5 3. Bxd5) 2. cxd5 cxd5 3. Nc3 e6 4. Nge2 a6 5. h4 h5 6. Bg5 Qa5 7. a3 *
+
+

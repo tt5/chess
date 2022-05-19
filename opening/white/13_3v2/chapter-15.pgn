@@ -1,0 +1,15 @@
+[Event "white 3v2: Chapter 15"]
+[Site "https://lichess.org/study/poaZH30T/h4Vhgk2z"]
+[Result "*"]
+[UTCDate "2021.07.04"]
+[UTCTime "13:36:57"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "r1bqk2r/pp1p1pbp/2n1pnp1/8/2PN3P/2N3P1/PP2PPB1/R1BQK2R b KQkq - 0 1"]
+[SetUp "1"]
+
+1... Nxd4 (1... O-O 2. O-O d5 (2... Nxd4 3. Qxd4 d5 (3... Nd5 4. Qd3 Nxc3 5. bxc3 d5 6. Rb1) 4. Rd1 Qa5 5. Qd3) 3. cxd5 Nxd5 4. Bg5 Qa5 (4... Qd7 5. Nxc6 bxc6 6. Qc2 Ba6 (6... Nxc3 7. bxc3 Rb8 8. Rab1 Ba6 9. Bf3 Qc7 10. c4 Qa5 11. Rb3 c5 12. Rfb1 Qc7 13. h5 Rxb3 14. Rxb3 Bd4 15. Kf1) 7. Rfd1) 5. Nb3 Qb4 6. Nxd5) 2. Qxd4 d5 3. cxd5 O-O 4. d6 *
+
+

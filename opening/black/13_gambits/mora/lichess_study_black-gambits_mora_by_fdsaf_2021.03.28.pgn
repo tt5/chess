@@ -1,0 +1,15 @@
+[Event "black gambits: mora"]
+[Site "https://lichess.org/study/QmFjHEks/YoP84rN0"]
+[Result "*"]
+[UTCDate "2021.03.28"]
+[UTCTime "19:15:52"]
+[Variant "Standard"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Accepted, Paulsen Formation"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbqkbnr/pp1ppppp/8/8/4P3/2p5/PP3PPP/RNBQKBNR w KQkq - 0 1"]
+[SetUp "1"]
+
+1. Nxc3 e6 2. Nf3 Nc6 3. Bc4 (3. Bf4 Bb4 4. Qc2 (4. Bd6 Nge7) 4... Nf6)  (3. Be2) 3... a6 4. O-O (4. a4 Bc5 5. e5 (5. O-O d6) 5... f5)  (4. Bf4 b5)  (4. h3 b5) 4... b5 5. Bb3 Bb7 6. Qe2 (6. Re1 Bc5)  (6. Bf4 Na5) 6... Nge7 *
+
+

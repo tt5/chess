@@ -1,0 +1,15 @@
+[Event "Sicilian (e6): 2.g3 kid"]
+[Site "https://lichess.org/study/OfIrjaJB/F8Dlea0B"]
+[Result "*"]
+[UTCDate "2021.03.13"]
+[UTCTime "15:03:20"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbqkb1r/pp1p1ppp/5n2/4p3/3N4/6P1/PPP1PP1P/RNBQKB1R w KQkq - 0 1"]
+[SetUp "1"]
+
+1. Nb3 (1. Nf3 Nc6 2. c4 (2. Bg2 d5) 2... d5) 1... d5 2. Bg2 (2. Bg5 Be6 3. Bg2 Nbd7) 2... Bb4+ 3. c3 Be7 4. O-O (4. Bg5 Nbd7) 4... Be6 5. c4 (5. f4 Qb6+ 6. Kh1 exf4 7. Bxf4 Nc6 8. N1d2 O-O) 5... Nc6 6. Bg5 (6. Nc3 dxc4)  (6. cxd5 Nxd5) 6... dxc4 *
+
+

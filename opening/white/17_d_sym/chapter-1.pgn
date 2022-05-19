@@ -1,0 +1,15 @@
+[Event "white d sym: Chapter 1"]
+[Site "https://lichess.org/study/FEPe2bzB/mU7xMksy"]
+[Result "*"]
+[UTCDate "2021.07.16"]
+[UTCTime "16:46:55"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "r1bqk2r/pp1n1ppp/2p2n2/4p3/2P5/2N2NP1/PP1QPP1P/2KR1B1R b kq - 0 1"]
+[SetUp "1"]
+
+1... O-O (1... Qe7)  (1... Qb6 2. g4 Nxg4 3. Bh3 Ndf6 4. Bxg4 Nxg4 5. c5 Qc7 6. Ne4)  (1... Qc7) 2. Nxe5 Qa5 3. Nxd7 Bxd7 4. Bg2 *
+
+

@@ -1,0 +1,15 @@
+[Event "white white plays d5: Chapter 10"]
+[Site "https://lichess.org/study/i4SIDMeX/GIziCY65"]
+[Result "*"]
+[UTCDate "2021.07.04"]
+[UTCTime "13:09:36"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "1rbq1rk1/1pp1ppbp/p1np1np1/3P4/2P5/1PN2NP1/P3PPBP/R1BQ1RK1 b - - 0 1"]
+[SetUp "1"]
+
+1... Na5 (1... Nxd5 2. cxd5 Bxc3 3. Bh6 Ne5 4. Bxf8 Bxa1 5. Bxe7 Qxe7 6. Qxa1 Nxf3+ (6... Bd7 7. Rc1 Rc8 8. Rc3 c5 9. dxc6 bxc6 10. Qc1) 7. Bxf3 Bf5 8. Qd4) 2. Bg5 Ng4 3. Rc1 c5 4. dxc6 Nxc6 5. Nd5 h6 6. Bd2 b6 7. Bc3 *
+
+

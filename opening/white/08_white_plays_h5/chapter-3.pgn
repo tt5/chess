@@ -1,0 +1,15 @@
+[Event "white white plays h5: Chapter 3"]
+[Site "https://lichess.org/study/rvDG33ud/9NHPcTTN"]
+[Result "*"]
+[UTCDate "2021.07.04"]
+[UTCTime "13:28:39"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "r1bqk2r/pp1pnpbp/2n1p1p1/2p4P/2P5/2N2NP1/PP1PPPB1/R1BQK2R b KQkq - 0 1"]
+[SetUp "1"]
+
+1... h6 (1... d5 2. d3 dxc4 3. dxc4 Qxd1+ 4. Nxd1 O-O 5. hxg6 hxg6 6. Nc3) 2. hxg6 *
+
+

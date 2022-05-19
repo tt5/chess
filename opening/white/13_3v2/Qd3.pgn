@@ -1,0 +1,15 @@
+[Event "white 3v2: Qd3"]
+[Site "https://lichess.org/study/poaZH30T/l2XPSI2p"]
+[Result "*"]
+[UTCDate "2021.04.26"]
+[UTCTime "12:30:23"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnb1k2r/pp1pppbp/6p1/q7/2PNn3/2NQ2P1/PP2PPBP/R1B1K2R b KQkq - 0 1"]
+[SetUp "1"]
+
+1... Nc5 2. Qd1 Nc6 3. e3 Ne6 (3... Nxd4 4. exd4) 4. O-O Ncxd4 (4... Qc5 5. Ndb5 a6 6. Na4 Qb4 (6... Qe5 7. Nbc3)  (6... Qxc4 7. Nbc3 Rb8 8. Nb6 Qc5 9. Ncd5 O-O 10. b4 Nxb4 11. Ba3 a5 12. Rc1 Qd6 13. Qa4) 7. a3 Qxc4 8. Nbc3)  (4... O-O 5. Nxe6)  (4... Nexd4 5. exd4) 5. exd4 *
+
+

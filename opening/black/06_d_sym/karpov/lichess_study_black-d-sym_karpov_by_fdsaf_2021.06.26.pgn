@@ -1,0 +1,15 @@
+[Event "black d sym: karpov"]
+[Site "https://lichess.org/study/HWxIrM2A/ksFrbC92"]
+[Result "*"]
+[UTCDate "2021.06.26"]
+[UTCTime "09:33:46"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnb2rk1/pp2ppbp/5np1/q1p5/2P1P3/2NBB2P/PP3PP1/R2QK1NR w KQ - 0 5"]
+[SetUp "1"]
+
+5. e5 Nh5 6. g4 Rd8 7. Qc2 (7. Nf3 Nc6 8. O-O Nxe5 9. Nxe5 Bxe5 10. Nd5 (10. gxh5 Bxc3 11. bxc3 Bf5) 10... Nf6 11. Nxe7+ Kg7 12. Qe2 (12. g5 Nh5 13. Nd5 Be6 14. Be4 Rd7 15. Re1 Re8) 12... Qc7 13. f4 (13. Nxc8 Raxc8 14. Rad1 Bf4 15. Rfe1 Bxe3)  (13. Nd5 Nxd5) 13... Bxb2 14. Qxb2 Qxe7 15. Qe2 b6 16. Rae1 Kg8 17. f5 Bb7 18. Bc2 Re8) 7... Nc6 8. Be4 Nd4 *
+
+

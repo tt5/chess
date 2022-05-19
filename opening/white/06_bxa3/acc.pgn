@@ -1,0 +1,15 @@
+[Event "white Bxa3: acc"]
+[Site "https://lichess.org/study/sZLQbUBB/IxPzkVjy"]
+[Result "*"]
+[UTCDate "2021.04.25"]
+[UTCTime "18:15:59"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbqk1nr/ppp2ppp/4p3/8/2p5/P5P1/P2PPPBP/R1BQK1NR b KQkq - 0 1"]
+[SetUp "1"]
+
+1... Ne7 (1... Nf6 2. Qc2) 2. Bb2 O-O 3. Qc2 Nbc6 4. Nf3 b5 5. a4 a6 (5... Rb8 6. axb5 Rxb5 7. O-O Ba6 (7... Nf5 8. Rfb1 Ba6 9. Qc3 f6 10. d3)  (7... Rb6 8. Qc3 f6 9. Ba3 Ba6 10. Bc5 Rb8 (10... Qc8 11. Qa3 Rd8 12. Rac1 Nf5 13. Bxb6 axb6 14. Rfe1) 11. Nd4 Nxd4 12. Bxd4 Nd5 13. Qa5 Qc8 14. Bxa7 Rb5 15. Qa3) 8. Qxc4) 6. Ng5 f5 7. d3 Rb8 8. dxc4 bxc4 9. Ba3 Nb4 10. Qxc4 Ned5 11. Nh3 a5 12. O-O Qd6 13. Rac1 *
+
+

@@ -1,0 +1,15 @@
+[Event "white 3v2: g6 Nf6"]
+[Site "https://lichess.org/study/poaZH30T/pLoyULhL"]
+[Result "*"]
+[UTCDate "2021.04.24"]
+[UTCTime "19:00:56"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbqkb1r/pp1ppp1p/5np1/8/2PN4/6P1/PP2PP1P/RNBQKB1R b KQkq - 0 1"]
+[SetUp "1"]
+
+1... Bg7 (1... Qa5+ 2. Nc3 Bg7 3. Bg2 Nc6 4. O-O Qb4 (4... Qc5 5. Ndb5 O-O 6. Nc7 Rb8 7. N7d5 Qxc4 8. Bf4)  (4... e6 5. Ndb5)  (4... h6 5. h3)  (4... Nh5 5. e3)  (4... Ng4 5. e3)  (4... Qe5 5. e3)  (4... Qh5 5. e3)  (4... Rb8 5. Bf4)  (4... a6 5. Nb3)  (4... h5 5. Nb3)  (4... Nxd4 5. Qxd4 d6 6. Nd5) 5. Ndb5)  (1... d5 2. Bg2 Bg7 3. Nc3 dxc4 4. Qa4+ Nbd7 5. O-O) 2. Bg2 O-O (2... Nc6 3. O-O Qb6 (3... d5 4. Nc3 e6 5. cxd5)  (3... Ng4 4. e3)  (3... h5 4. h3)  (3... Nxd4 4. Qxd4 d6 (4... a5 5. Rd1)  (4... Qc7 5. Nc3) 5. Nc3) 4. e3)  (2... e5 3. Nf3 d5 4. O-O Nc6 5. e3 Bg4 6. Qb3)  (2... h5 3. h3 Nc6 (3... Qa5+ 4. Nc3) 4. Nc3)  (2... d5 3. Nc3) 3. Nc3 d6 (3... Na6 4. O-O)  (3... Qc7 4. b3 d5 5. Ndb5 Qa5 6. Bd2)  (3... Nc6 4. O-O a6 (4... Qa5 5. e3 Ne5 6. Qe2 d6 7. h3)  (4... Ng4 5. e3 Nxd4 (5... d6 6. b3 Nh6 (6... Nxd4 7. exd4 Nh6 8. d5)  (6... Bd7 7. h3) 7. Nde2 Bg4 (7... Qa5 8. Bd2 Nf5 9. Nd5 Qd8 10. Rc1 e6 11. Ndf4 Qc7 12. Bc3 Ne5 13. Qd2 Rb8 14. Rfd1) 8. Bb2 Qa5 9. Qc1 Bxe2 10. Nxe2) 6. exd4 Nh6 7. d5)  (4... d6 5. Nc2 Be6 (5... Bd7 6. b3 a6 (6... h5 7. Rb1)  (6... Qc8 7. Rb1 Bh3 8. Bb2) 7. Bb2 Rc8 (7... Qa5 8. Rb1 Rac8 9. a4)  (7... Ne8 8. Qd2 b5 9. Ne3 Rb8 10. Rfd1 Qa5 11. c5 Kh8 12. Rac1)  (7... Rb8 8. Nd5 Nxd5 9. Bxg7) 8. Qd2)  (5... Qb6 6. b3 Qc5 (6... Re8 7. Bb2 Be6 8. Rb1)  (6... Be6 7. e4 Bg4 8. Qe1 Rac8 9. Ne3)  (6... Rd8 7. Bb2)  (6... Bg4 7. Bb2)  (6... Qa5 7. Nd5) 7. Bb2 Qh5 8. e4)  (5... Qa5 6. Nd5 Nxd5 7. cxd5 Ne5 8. Bd2 Qb6 9. b3) 6. b3 Qd7 7. Bb2 Bh3 8. f3)  (4... Nxd4 5. Qxd4 a6 (5... Qa5 6. Be3)  (5... d6 6. Qd3 Be6 (6... Bf5 7. e4 Be6 8. b3 Ng4 (8... Nd7 9. Rb1)  (8... a6 9. Be3)  (8... Qa5 9. Bd2 Qh5 10. f3 Rac8 (10... Bh3 11. Rae1) 11. Rae1) 9. Bb2)  (6... a6 7. Bg5)  (6... Rb8 7. Bf4)  (6... Re8 7. Bd2 Nd7 (7... a6 8. b3)  (7... Rb8 8. Rac1)  (7... Bd7 8. Rac1 a6 9. Rfd1 Bc6 10. b3 Nd7 11. Bf4 Bxg2 12. Kxg2 Rc8 13. Nd5 Nf6 14. Qf3 Nxd5 15. Rxd5) 8. b3 Ne5 9. Qc2 a6 (9... h5 10. h3)  (9... Bf5 10. Qc1)  (9... Rb8 10. Bg5) 10. Bg5)  (6... Nd7 7. b3 Nc5 8. Qe3 Bf5 9. Bb2)  (6... Qa5 7. Bd2 Qh5 8. h4) 7. Bd2 Qc8 8. b3 Bh3 9. Rae1) 6. Bf4) 5. c5 Re8 (5... Ng4 6. Nc2)  (5... Nxd4 6. Qxd4 d6 7. cxd6 Ne8 8. Qh4 Nxd6 9. Rd1 Bd7 (9... Be6 10. Bg5) 10. Nd5 Re8 11. Bg5 Nf5 12. Qb4 h6 13. Nb6) 6. Qa4) 4. b3 *
+
+

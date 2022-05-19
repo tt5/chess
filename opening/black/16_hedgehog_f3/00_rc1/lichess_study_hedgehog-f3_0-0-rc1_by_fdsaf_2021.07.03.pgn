@@ -1,0 +1,15 @@
+[Event "Hedgehog (f3): 0-0 Rc1"]
+[Site "https://lichess.org/study/sS2ZerlE/18MpuK69"]
+[Result "*"]
+[UTCDate "2021.07.03"]
+[UTCTime "16:48:34"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rn3rk1/1bq1bppp/pp1ppn2/8/2PNP3/2N1BP2/PP2B1PP/2RQ1RK1 w - - 0 6"]
+[SetUp "1"]
+
+6. Qe1 (6. Qd2 Nbd7 7. Rfd1 Rac8 8. Bf1 Rfe8 9. Na4 (9. Bf2 Qb8 10. b3 h6)  (9. Qe1 Qb8 10. Qg3 Ne5)  (9. b3 Qb8 10. Kh1 (10. Nde2 b5) 10... Rcd8) 9... Qb8 10. Bf2 d5) 6... Nbd7 7. Qf2 (7. Qg3 Rfe8 8. Rfd1 Rac8 9. b4 (9. a4 Ne5)  (9. h3 Nh5)  (9. h4 Qd8)  (9. b3 Qb8)  (9. Na4 Qb8)  (9. Kh1 Qb8) 9... d5) 7... Rac8 *
+
+

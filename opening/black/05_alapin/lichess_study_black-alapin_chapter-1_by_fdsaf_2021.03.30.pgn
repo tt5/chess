@@ -1,0 +1,15 @@
+[Event "black alapin: Chapter 1"]
+[Site "https://lichess.org/study/RGxcA6bn/RsQtm9YZ"]
+[Result "*"]
+[UTCDate "2021.03.30"]
+[UTCTime "14:30:20"]
+[Variant "Standard"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation, Smith-Morra Declined"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbqkb1r/pp1ppppp/8/2pnP3/8/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 1"]
+[SetUp "1"]
+
+1. d4 (1. Bc4 e6 2. d4 d6)  (1. Nf3 e6 2. a3 (2. c4 Nb4)  (2. Bc4 d6 3. O-O (3. d4 Nc6 4. O-O cxd4)  (3. Bb3 Nc6) 3... dxe5) 2... d6) 1... cxd4 2. cxd4 (2. Qxd4 e6 3. Nf3 Nc6 4. Qe4 f5 5. exf6 (5. Qe2 Qc7 6. g3 d6) 5... Nxf6 6. Qh4 d5 7. Bd3 Bd6 8. Bg5 Kf7 9. O-O h6)  (2. Nf3 e6) 2... d6 3. Nf3 (3. Nc3 Nxc3 4. bxc3 dxe5 5. dxe5 Qxd1+ 6. Kxd1 Nc6) 3... e6 4. Nc3 (4. Bd3 dxe5)  (4. Bg5 Be7)  (4. a3 Bd7 5. Bd3 Bc6 6. O-O Nd7 7. Re1 Be7)  (4. Bc4 Be7 5. Bxd5 (5. O-O Nc6 6. Re1 (6. Bd2 O-O 7. Nc3 Nb6)  (6. Qe2 O-O 7. Nc3 (7. exd6 Qxd6)  (7. Re1 Na5)  (7. Rd1 Na5 8. Bb5 (8. b3 a6)  (8. Bxd5 exd5 9. Nc3 Be6 10. Bf4 a6 11. h3 Re8 12. exd6 Bxd6 13. Bxd6 Qxd6 14. Qe5 Nc4 15. Qxd6 Nxd6 16. Ne5 Rac8)  (8. Bd3 Nb4) 8... a6 9. Bd3 Nb4 10. Nc3 Nxd3 11. Rxd3 d5 12. Ne1 f6)  (7. Qe4 Bd7 8. Re1 Rc8 9. a3 Na5 10. Ba2 Ba4 11. Qg4 Bc2) 7... Nxc3 8. bxc3 dxe5 9. dxe5 { [%cal Gd8a5] } 9... b6 10. Qe4 (10. Re1)  (10. Bf4)  (10. Rd1)  (10. h4) 10... Qc7 11. Bd3 (11. Bg5) 11... g6 12. Bh6 Rd8 13. Bc2 (13. Rad1)  (13. Rfd1) 13... Rd5 14. Rfe1 (14. Bb3)  (14. h3)  (14. h4)  (14. Rab1)  (14. Rfd1) 14... Bb7 15. Qf4 (15. Rac1)  (15. h4)  (15. h3)  (15. Bb3) 15... Rc5 16. Rad1 (16. h4)  (16. Be4)  (16. Re3)  (16. Rab1)  (16. Bb3)  (16. Rac1)  (16. h3)  (16. Bd3) 16... Rd8 17. Be4 (17. h4 Rxd1) 17... Bc8 18. Rxd8+ (18. Bxc6 Rxd1 19. Rxd1 Rxc6)  (18. Bc2) 18... Bxd8 19. Bxc6 (19. Bc2)  (19. Rd1)  (19. Qd2) 19... Rxc6 20. Qa4 (20. h3)  (20. h4)  (20. Ng5)  (20. Bg5)  (20. Nd4)  (20. Nd2) 20... a6 21. c4 (21. h3)  (21. Ng5)  (21. Rd1)  (21. Nd2) 21... Bb7 22. Rd1 Be7 23. Nd4 (23. h3)  (23. c5) 23... b5 24. cxb5 Rc4 25. b6 Qc8)  (6. a3 a6)  (6. Bd3 Ndb4 7. exd6 Qxd6 8. Be4 O-O 9. Nc3 Rd8 10. Be3 Nd5 11. Rc1 Nf6) 6... O-O) 5... exd5)  (4. Bd2 Be7) 4... Nxc3 5. bxc3 Qc7 6. Bd2 Bd7 7. Bd3 Bc6 8. O-O Nd7 9. Re1 dxe5 10. Nxe5 Nxe5 11. Rxe5 g6 12. h4 Bd6 13. Re2 (13. Re1 O-O) 13... O-O *
+
+

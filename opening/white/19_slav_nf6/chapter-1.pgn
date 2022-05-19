@@ -1,0 +1,15 @@
+[Event "white slav Nf6: Chapter 1"]
+[Site "https://lichess.org/study/1sPwVR8s/wOLN03kx"]
+[Result "*"]
+[UTCDate "2021.07.22"]
+[UTCTime "13:18:26"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5NP1/PP2PP1P/RNBQKB1R b KQkq - 0 1"]
+[SetUp "1"]
+
+1... Bf5 (1... Bg4 2. Bg2 e6 3. O-O Be7 4. h3 Bf5 5. Nc3 Nbd7 6. Nh4 Be4 7. Nxe4 Nxe4 8. Nf3)  (1... g6 2. b3 dxc4 (2... Bg7 3. Bg2 O-O 4. O-O dxc4 (4... Bf5 5. Nc3 Ne4 6. Bb2 Nd7 7. Rc1 e6 8. Nh4 Nxc3 9. Bxc3) 5. bxc4) 3. bxc4)  (1... dxc4 2. Bg2) 2. Nc3 Nbd7 (2... h6 3. Qb3 Qb6 4. cxd5)  (2... e6 3. Nh4 dxc4 (3... Be4 4. f3 Bg6 5. Qb3 Qb6 6. Nxg6 hxg6 7. c5) 4. Nxf5 exf5 5. e3)  (2... dxc4 3. Ne5) 3. Nh4 Be6 4. Bg2 g6 5. O-O Bg7 6. Nf3 Nb6 7. cxd5 *
+
+

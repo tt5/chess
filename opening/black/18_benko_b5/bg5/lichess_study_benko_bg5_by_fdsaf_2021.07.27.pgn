@@ -1,0 +1,15 @@
+[Event "benko: bg5"]
+[Site "https://lichess.org/study/JGy1npCp/jxxP4AaN"]
+[Result "*"]
+[UTCDate "2021.07.27"]
+[UTCTime "20:16:15"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbqk2r/p2pppbp/5np1/1ppP2B1/2P5/2N2N2/PP2PPPP/R2QKB1R w KQkq - 0 1"]
+[SetUp "1"]
+
+1. cxb5 a6 2. a4 (2. b6 Qxb6)  (2. bxa6 Qa5 3. e4 Nxe4)  (2. Qa4 h6 3. Bxf6)  (2. e3 h6 3. Bh4 Qa5 4. Nd2 axb5 5. Bxb5 Qb4) 2... Qa5 *
+
+

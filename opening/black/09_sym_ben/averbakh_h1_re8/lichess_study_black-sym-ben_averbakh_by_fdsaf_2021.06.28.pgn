@@ -1,0 +1,15 @@
+[Event "black sym ben: averbakh"]
+[Site "https://lichess.org/study/igUYQ4Ui/sCiIn97k"]
+[Result "*"]
+[UTCDate "2021.06.28"]
+[UTCTime "09:29:53"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbqr1k1/pp3pb1/3p1npp/2pP4/2P5/2N1B2P/PP2BPP1/R2QK1NR w KQ - 1 7"]
+[SetUp "1"]
+
+7. Nf3 (7. Bd3 b5 8. cxb5 Nbd7 9. Nge2 Nb6 10. Qd2 Nfxd5 11. Nxd5 Nxd5 12. Bxh6 Bxh6 13. Qxh6 Qf6 14. O-O Bb7)  (7. Qd2 Kh7 8. Bd3 b5 9. cxb5 (9. Nxb5 Ne4 10. Bxe4 Rxe4 11. Rc1 a6 12. Na3 Qh8 13. Rb1 Bf5 14. Ne2 Re7 15. Nc2 Bxb2 16. O-O Nd7 17. Ng3 Bc3 18. Qe2 Qf6 19. Rb3 Bxc2 20. Qxc2 Bd4) 9... Nbd7 10. Nge2 Ne5 11. a4 (11. Rd1 a6 12. a4 Nxd3+ 13. Qxd3 Nd7) 11... a6 12. O-O Bxh3) 7... Bf5 8. g4 (8. O-O Ne4) 8... Be4 9. O-O Bxf3 10. Bxf3 Nbd7 11. Bg2 Rxe3 12. fxe3 Ne5 13. Rf4 Qe7 *
+
+

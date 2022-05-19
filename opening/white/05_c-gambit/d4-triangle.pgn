@@ -1,0 +1,15 @@
+[Event "white c-Gambit: d4 Triangle"]
+[Site "https://lichess.org/study/RWNmnrr5/y39DciGl"]
+[Result "*"]
+[UTCDate "2021.04.25"]
+[UTCTime "18:22:16"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbqkbnr/pp3ppp/2p1p3/8/2pP4/5NP1/PP2PPBP/RNBQK2R b KQkq - 0 1"]
+[SetUp "1"]
+
+1... Nd7 (1... Nf6 2. a4 c5 3. O-O Bd7 4. dxc5 Bc6 5. Qxd8+ Kxd8 6. Ne5 Bxg2 7. Kxg2 Ke8 8. Na3 Nbd7 9. Nxd7 Nxd7 10. c6 bxc6 11. Nxc4 Bb4 12. Bf4 f6 13. Rfd1 Ke7 14. Rac1 Rhd8 15. b3 Nf8 16. Rxd8 Kxd8 17. e4 Nd7 18. h4 h5 19. Kf3 Ke7 20. Ke2 Rc8 21. e5 Nb8 22. Be3 Rc7 23. f3 Nd7 24. exf6+ gxf6 25. g4 hxg4 26. fxg4 Bc5 27. Bd2 e5 28. Na5 Kd6 29. h5) 2. a4 *
+
+

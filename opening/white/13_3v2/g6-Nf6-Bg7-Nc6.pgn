@@ -1,0 +1,15 @@
+[Event "white 3v2: g6 Nf6 Bg7 Nc6"]
+[Site "https://lichess.org/study/poaZH30T/YfAN9Ei5"]
+[Result "*"]
+[UTCDate "2021.04.24"]
+[UTCTime "19:59:23"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "r1bqk2r/pp1pppbp/2n2np1/8/2PN4/2N3P1/PP2PPBP/R1BQK2R b KQkq - 0 1"]
+[SetUp "1"]
+
+1... h5 (1... Ng4 2. e3 Nge5 3. b3 d6 4. O-O O-O)  (1... d5 2. cxd5 Nxd5 3. Nxd5 Bxd4 4. O-O O-O (4... Be6 5. Nf4) 5. Bh6) 2. h3 *
+
+

@@ -1,0 +1,15 @@
+[Event "Sicilian (e6): Bd3"]
+[Site "https://lichess.org/study/OfIrjaJB/ARVVp5R4"]
+[Result "*"]
+[UTCDate "2021.03.11"]
+[UTCTime "17:39:52"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnb1kb1r/1pqp1ppp/p3pn2/8/3NP3/2NB4/PPP2PPP/R1BQK2R w KQkq - 0 1"]
+[SetUp "1"]
+
+1. f4 (1. Qe2 d6 2. Be3 (2. f4 Be7) 2... b5)  (1. O-O Bc5 2. Nb3 Ba7) 1... d6 2. Qe2 (2. g4 Nc6 3. Nb3 d5)  (2. O-O b5 3. Kh1 (3. Be3 Bb7)  (3. Qe1 Qa7 4. Be3 Ng4 5. Nf5 Nxe3) 3... Bb7)  (2. a3 b5 3. Be3 (3. Qf3 Bb7 4. Be3 Nbd7 5. g4 Nc5 6. g5 Nfd7 7. O-O-O Nxd3+ 8. Rxd3 Nc5)  (3. Bd2 Bb7 4. Qe2 Be7 5. g4 d5)  (3. O-O Bb7)  (3. g4 d5)  (3. Rf1 Bb7) 3... Bb7 4. Qe2 (4. O-O Nbd7 5. Qf3 g6)  (4. g4 d5) 4... Nbd7)  (2. Qf3 b5 3. Be3 (3. g4 Bb7 4. g5 (4. Bd2 b4 5. Nce2 d5)  (4. Be3 Nfd7 5. O-O-O (5. g5 b4) 5... b4) 4... Nfd7) 3... h5)  (2. Bd2 b5) 2... Nbd7 3. O-O (3. g4 h6)  (3. Bd2 Nc5)  (3. a3 Nc5)  (3. a4 Nc5) 3... b5 4. a3 (4. Kh1 Bb7 5. Bd2 Be7 6. Rae1 Nc5) 4... Bb7 *
+
+

@@ -1,0 +1,15 @@
+[Event "black sym ben: karpov"]
+[Site "https://lichess.org/study/igUYQ4Ui/gZ7bmpFD"]
+[Result "*"]
+[UTCDate "2021.06.28"]
+[UTCTime "09:22:01"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "r1bq1rk1/pp3pbp/n2p1np1/2pP4/2P5/2NBB2P/PP3PP1/R2QK1NR w KQ - 1 6"]
+[SetUp "1"]
+
+6. Nf3 (6. Nge2 Nb4 7. Bb1 b5 8. Nxb5 Ba6 9. a4 (9. Nec3 Nfxd5 10. cxd5 (10. Nxd5 Nxd5 11. Qxd5 Bxb2 12. Bxg6 Bxb5 13. Bxh7+ Kxh7 14. Rb1 Bc3+ 15. Kf1 Ba6 16. Qd3+ f5 17. Qxc3 Qf6) 10... Qa5) 9... Qa5 10. Bd2 Bxb5 11. cxb5 a6) 6... Nb4 7. Bb1 (7. Be2 Bf5 8. Rc1 Ne4 9. Nxe4 Bxe4 10. a3 Na6 11. Qd2 Qf6 12. Rc3 Rfe8 13. O-O Nc7 14. Ng5 Bf5 15. Nf3 Be4) 7... b5 *
+
+

@@ -1,0 +1,15 @@
+[Event "black c sym: wd5"]
+[Site "https://lichess.org/study/dnom6NKe/yDYFV3vw"]
+[Result "*"]
+[UTCDate "2021.06.22"]
+[UTCTime "15:42:33"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "r1b2rk1/pp2qpbp/3p1np1/2nPp3/8/2N2NP1/PPQ1PPBP/R1BR2K1 w - - 1 7"]
+[SetUp "1"]
+
+7. e4 (7. Nd2 Bd7 8. a4 (8. b4 Na6 9. Qb3 Rfc8 10. Nc4 e4) 8... Rac8 9. Nc4 Ne8 10. Bd2 f5) 7... Qc7 8. Qe2 b6 9. b4 (9. Qe1 a5 10. h3 Ba6 11. Bf1 (11. a4 Rae8) 11... Bxf1 12. Kxf1 b5 13. Nxb5 Qd7) 9... Ba6 *
+
+

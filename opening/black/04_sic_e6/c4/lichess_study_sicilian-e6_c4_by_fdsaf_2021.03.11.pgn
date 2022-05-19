@@ -1,0 +1,15 @@
+[Event "Sicilian (e6): c4"]
+[Site "https://lichess.org/study/OfIrjaJB/dEmelqhb"]
+[Result "*"]
+[UTCDate "2021.03.11"]
+[UTCTime "16:20:04"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnb1kb1r/1pqp1ppp/p3pn2/8/2PNP3/2N5/PP3PPP/R1BQKB1R w KQkq - 0 1"]
+[SetUp "1"]
+
+1. a3 (1. Be2 b6 2. f3 (2. Be3 Bb7 3. Qd3 Nc6)  (2. a3 Bb7 3. Bf3 (3. Bd3 Nc6)  (3. Qc2 Nc6)  (3. Qd3 Nc6) 3... Nc6)  (2. O-O Bb7 3. Qd3 (3. Bf3 Nc6)  (3. Bd3 Bb4)  (3. Re1 Bd6)  (3. Qc2 Bd6) 3... Nc6)  (2. f4 Bb7 3. Qd3 (3. Bf3 Bb4)  (3. e5 Ne4) 3... Bb4)  (2. Bg5 Bb7)  (2. Qd3 Bb7) 2... Bb7 3. Be3 (3. a3 Be7 4. O-O O-O)  (3. O-O Be7) 3... Be7 4. a3 (4. O-O O-O 5. Rc1 (5. Qe1 d6)  (5. Qd2 d6)  (5. Kh1 d6)  (5. g3 d6)  (5. Nb3 d6)  (5. Qd3 Nc6)  (5. Qc2 Nc6)  (5. Na4 Bd6) 5... d6)  (4. Na4 O-O 5. Qd2 d6)  (4. Rc1 O-O 5. Na4 d6)  (4. Qb3 d6) 4... O-O 5. Na4 d6)  (1. h3 Bb4)  (1. Be3 Bb4 2. Qb3 Bc5 3. Be2 d6 4. Rd1 Nc6 5. O-O O-O 6. Nxc6 Bxe3)  (1. f4 Bb4)  (1. Nf3 Bb4)  (1. Bd3 Bc5 2. Nb3 (2. Be3 d6 3. O-O (3. Qe2 O-O)  (3. Be2 O-O 4. Qd2 e5 5. Nc2 Bxe3)  (3. Nc2 O-O 4. Bg5 Qd8 5. b4 Bb6 6. O-O h6 7. Bh4 a5 8. a3 Nc6 9. Rb1 axb4) 3... O-O 4. Rc1 (4. Qe2 Nbd7 5. a3 Ne5 6. h3 Bd7 7. Rfd1 Rfd8 8. Rd2 Rac8 9. Rad1 h6 10. Kh1 Bb6 11. Nf3 (11. f4 Nxc4)  (11. Nc2 Ba5 12. Nb4 Nxd3) 11... Bxe3)  (4. Nc2 Bxe3) 4... Nc6) 2... Be7 3. f4 d6 4. Be3 b6)  (1. Qd3 Nc6 2. Be2 Nxd4)  (1. Bg5 Nc6 2. Bxf6 gxf6 3. g3 h5)  (1. Qc2 Nc6)  (1. Nc2 Bd6) 1... b6 2. f4 (2. Be3 Bb7 3. f3 (3. Bd3 Bd6) 3... Be7 4. Rc1 O-O 5. Be2 d6) 2... Bb7 3. Bd3 Nc6 4. Nxc6 (4. Nb3 d6)  (4. Nc2 Na5) 4... Qxc6 *
+
+

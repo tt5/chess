@@ -1,0 +1,15 @@
+[Event "white 4v3: Triangle Be7 Re8"]
+[Site "https://lichess.org/study/NQhZl7UC/meAcfPCo"]
+[Result "*"]
+[UTCDate "2021.04.26"]
+[UTCTime "12:43:06"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "r1bqr1k1/pp1nbppp/2p1p3/8/2PPQ3/5NP1/PP3PBP/R1B2RK1 b q - 0 1"]
+[SetUp "1"]
+
+1... Bd6 (1... e5 2. dxe5)  (1... c5 2. Qe2 cxd4 (2... a6 3. Bd2 cxd4 4. Nxd4) 3. Nxd4)  (1... Nf6 2. Qe2 Qa5 (2... c5 3. Rd1 Nd7 (3... Qb6 4. dxc5 Bxc5 5. Ne5 Bd4 6. Bf3) 4. dxc5)  (2... Qc7 3. Bf4 Bd6 4. Ne5 Nd7 (4... g6 5. c5 Bxe5 6. Bxe5 Qe7 7. Bd6 Qd7 8. Rfe1) 5. c5 Bxe5 6. Bxe5 Nxe5 7. dxe5 Bd7 8. Rfd1 Reb8 (8... Rab8 9. Rd6) 9. Rac1 b6 10. b3) 3. Rd1) 2. Rd1 Qc7 3. c5 Bf8 4. Bf4 Qd8 5. Bg5 Nf6 6. Qe2 h6 7. Bxf6 Qxf6 (7... gxf6 8. Nh4) 8. Ne5 Rd8 9. b4 Bd7 10. a4 a6 11. Ra3 *
+
+

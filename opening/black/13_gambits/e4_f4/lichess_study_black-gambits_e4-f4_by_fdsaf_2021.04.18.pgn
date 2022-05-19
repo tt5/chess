@@ -1,0 +1,15 @@
+[Event "black gambits: e4 f4"]
+[Site "https://lichess.org/study/QmFjHEks/a8tUKI9l"]
+[Result "*"]
+[UTCDate "2021.04.18"]
+[UTCTime "15:13:04"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/fdsaf"]
+[FEN "rnbqkb1r/pp2pppp/5n2/2pP4/5P2/8/PPPP2PP/RNBQKBNR w KQkq - 1 3"]
+[SetUp "1"]
+
+3. c4 (3. Nc3 a6)  (3. Bb5+ Nbd7 4. c4 a6) 3... e6 4. dxe6 Bxe6 5. Nf3 Bd6 *
+
+
